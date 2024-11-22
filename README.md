@@ -7,3 +7,5 @@ When the 'Preprocessing.ipynb' file is completely run, it is expected to create 
 The 'market yards list.csv' file is used in 'Preprocessing.ipynb' file
 
 Here is the google drive link for Dashboard ppt and Analysis.xlsx Excel Workbook - https://drive.google.com/drive/folders/1yB_7wkoZMQdN_-72Ww0lpW6jQ2jQXy6h
+
+Analysis-1 and Analysis-2 sheets of Analysis.xlsx Excel Workbook contains the exploratary analysis of the data.
